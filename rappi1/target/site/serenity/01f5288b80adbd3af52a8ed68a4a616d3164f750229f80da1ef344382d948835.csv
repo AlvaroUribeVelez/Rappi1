@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Rappi initial rest test","Get users","SUCCESS","2020-06-18T08:57:27.792-05:00[America/Bogota]","0.0","4.89"
+"Rappi initial rest test","Test1","SUCCESS","2020-06-18T09:54:44.853-05:00[America/Bogota]","0.0","4.19"
+"Validacion Rest","Validacion Correcta de Api","SUCCESS","2020-06-18T10:37:24.787-05:00[America/Bogota]","0.0","4.76"
+"Validacion Rest servicio1","Validacion Correcta de Api servicio1","SUCCESS","2020-06-18T11:08:46.613-05:00[America/Bogota]","0.0","3.96"
+"Validacion Rest servicio2","Validacion Correcta de Api servicio2","SUCCESS","2020-06-18T11:13:35.554-05:00[America/Bogota]","0.0","4.12"
+"Validacion Rest servicio3","Validacion Correcta de Api servicio3","SUCCESS","2020-06-18T11:15:10.349-05:00[America/Bogota]","0.0","3.88"
